@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ヘルシーな生活",
+  "base_artist": "TOKOTOKO(西沢さんP)",
+  "createdAt": "2026-02-07T07:02:22.187338Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヘルシーな生活",
+      "artist": "西沢さんP",
+      "has_synced": false,
+      "path": "select/01_ヘルシーな生活_西沢さんP.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ヘルシーな生活",
+      "artist": "TOKOTOKO feat. GUMI",
+      "has_synced": false,
+      "path": "select/02_ヘルシーな生活_TOKOTOKO_feat._GUMI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヘルシーな生活",
+      "artist": "TOKOTOKO (西沢さんP) Feat. GUMI",
+      "has_synced": false,
+      "path": "select/pl_01_ヘルシーな生活_TOKOTOKO_(西沢さんP)_Feat._GUMI.txt"
+    }
+  ]
+}
